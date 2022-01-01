@@ -31,68 +31,33 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  With a love for excellence in software, you can find Bill both in and out of the work-place 
+  sharpening his craft. In addition to 12 years of professional software development he completed 
+  a Masters in Computer Science in 2016. Driven to make the work-place a fulfilling and enjoyable 
+  place to be, he excels at bringing a positive and can-do attitude to work every day.
 
 # Experience
 experience:
-  - role: Software Engineer
+  - role: Senior Full Stack Software Engineer
     time: 2020-Present
-    company: Google
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+    company: Tithe.ly/Breeze ChMS
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      PHP, Laravel, JavaScript, React, Git, GitHub
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+  - role: Senior Software Engineer (III)
+    time: 2019-2020
+    company: Boeing
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
-
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Python, C#, JavaScript, Jenkins, GitLab, Kubernetes/OpenShift
+        
+  - role: Senior Software Engineer
+    time: 2018-2019
+    company: MasterCard
+    technologies_used: | 
+      ngular 4/5, Jasmine/Karma, Java, JUnit, Spring Boot Chef (Infrastructure in Code), Maven, Jenkins
+  
+  - role: Senior Software Engineer (I, II, III)
+    time: 2009-2018
+    company: Boeing
+    technologies_used: | 
+      C++ 11/14, gnu tools (g++, gdb), Python, BOOST, unit testing, git, Visual Studio 2010/2015, Agile
