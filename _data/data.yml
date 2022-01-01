@@ -1,43 +1,33 @@
-name: John Doe
+name: William "Bill" Harding
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: me@billharding.dev
+  github: gitwilliam
+  linkedin: wpharding
   phone: 
   gitlab: 
   twitter: 
 
-languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
-
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MS in Computer Science
+    time: 2016
+    university: Missouri University of Science and Tehnology
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BS in Computer Engineering
+    time: 2009
+    university: Washington University in St. Louis
+    
+  - degree: BS in Electrical Engineering
+    time: 2009
+    university: Washington University in St. Louis
 
 skills:
-  - category: Backend
+  - category: Skills
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Yes
 
 # Profile
 profile: |
