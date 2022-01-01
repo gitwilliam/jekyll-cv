@@ -25,7 +25,7 @@ education:
     university: Washington University in St. Louis
 
 skills:
-  - category:
+  - category: Skills
     skill: 
       - C++11/14
       - PHP
