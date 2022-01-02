@@ -1,14 +1,13 @@
-.publications {
+.recommendations {
     .title {
         @include header;
     }
-    .publication-items {
-        .publication-item {
+    .recommendation-items {
+        .recommendation-item {
             margin-bottom: 20px;
-            .publication-title {
+            .recommendation-text{
                 a {
                     text-decoration: none;
-                    font-weight: bold;
                     @include body-text; 
                 }
             }
