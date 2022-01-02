@@ -58,7 +58,6 @@ experience:
       C++ 11/14, gnu tools (g++, gdb), Python, BOOST, git, Visual Studio 2010/2015, Agile
       
 recommendations:
+  - authors: Bob Jones
   - text: | 
-    A Sample Recommendation
-  - authors: |
-      Bob Jones
+      A Sample Recommendation
