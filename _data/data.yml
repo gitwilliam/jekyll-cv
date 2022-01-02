@@ -24,38 +24,6 @@ education:
     time: 2009
     university: Washington University in St. Louis
 
-skills:
-  - category: Skills
-    skill: 
-      - C++11/14
-      - PHP
-      - React
-      - JavaScript
-      - Java
-      - Python
-      - Angular
-      - git
-      - Chef
-      - Jenkins
-      - make
-      - cmake
-      - Kubernetes
-      - OpenShift
-      - Docker
-      - OpenShift
-      - Vim
-      - Eclipse
-      - IntelliJ
-      - Visual Studio 2010/2015
-      - Visual Studio Code
-      - Linux
-      - Windows
-      - Mac 
-      - Tomcat
-      - Apache 
-      - Agile
-      - SAFe
-
 # Profile
 profile: |
   With a love for excellence in software, you can find Bill both in and out of the work-place 
