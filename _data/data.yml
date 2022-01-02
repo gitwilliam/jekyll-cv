@@ -81,10 +81,10 @@ experience:
     time: 2018-2019
     company: MasterCard
     technologies: | 
-      Angular 4/5, Jasmine/Karma, Java, JUnit, Spring Boot Chef (Infrastructure in Code), Maven, Jenkins
+      Angular 4/5, Jasmine/Karma, Java, JUnit, Spring Boot, Chef (Infrastructure as Code), Maven, Jenkins
   
-  - role: Senior Software Engineer (I, II, III)
+  - role: Software Engineer (I, II, III)
     time: 2009-2018
     company: Boeing
     technologies: | 
-      C++ 11/14, gnu tools (g++, gdb), Python, BOOST, unit testing, git, Visual Studio 2010/2015, Agile
+      C++ 11/14, gnu tools (g++, gdb), Python, BOOST, git, Visual Studio 2010/2015, Agile
