@@ -2,10 +2,10 @@
 {% if recommendations %}
 <section class="recommendations">
     <h2 class="title">LinkedIn Recommendations</h2>
-    <div class="recommendations-items">
+    <div class="recommendation-items">
         {% for pub in recommendations%}
-            <div class="recommendations-item">
-                <div class="recommendations-text">
+            <div class="recommendation-item">
+                <div class="recommendation-text">
                     {{pub.text}}</a>
                 </div><div class="authors">  - {{pub.authors}}</div> 
                 <br>
