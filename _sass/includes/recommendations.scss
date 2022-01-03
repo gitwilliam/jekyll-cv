@@ -12,7 +12,9 @@
                 }
             }
             .authors {
-                @include body-text; 
+                @include body-text;
+                font-style: italic;
+                font-weight: bold;
             }
             .conference {
                 @include body-text; 
