@@ -3,21 +3,20 @@
 <section class="recommendations">
     <h2 class="title">LinkedIn Recommendations</h2>
     <div class="recommendation-items">
-        {% for pub in recommendations%}
-            <div class="recommendation-item">
-                <div class="recommendation-text">
-                    {{pub.text}}</a>
-                {% if pub.authors }
-                </div><div class="authors">  - {{pub.authors}}</div> 
-                {% end if %}
-                <br>
-            </div>
-        {%endfor%}
         <div class="recommendation-item">
             <div class="recommendation-text">
                 Find additional recommendations on <a href="https://www.linkedin.com/in/wpharding">LinkedIn</a>.
             </div>
         </div>
+        <br>
+        {% for pub in recommendations%}
+            <div class="recommendation-item">
+                <div class="recommendation-text">
+                    {{pub.text}}</a>
+                </div><div class="authors">  - {{pub.authors}}</div>
+                <br>
+            </div>
+        {%endfor%}
     </div>
 </section>
 {% endif %}
