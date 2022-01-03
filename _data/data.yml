@@ -61,3 +61,26 @@ experience:
 #  - authors: Bob Jones
 #  - text: | 
 #      A Sample Recommendation
+
+recommendations:
+  - authors: Nicole Lee
+    text: |
+      "Not only is Bill an intelligent software engineer, he is an excellent teammate. 
+      He is always willing to lend a hand, and his positive attitude is infectious. 
+      He is a quick learner, an able coach, and a kind person. 
+      He would be a great addition to any team."
+    
+  - authors: Emily Yankush
+    text: |
+      "I had the pleasure of working on several projects with Bill, and his technical competence, reliability, humility, 
+      and team focus were his standout traits. Bill takes requirements, fills in the gaps, and has already thought 
+      about edge cases before most people understand what's being asked. 
+      Everyone would vie to have Bill on their team. I recommend him highly!"
+      
+  - authors: C. W. McCreary
+    text: |
+      "Bill was a software engineer working on the same projects. I was the Test Director for the F15E simulator program. 
+      Bill was knowledgeable, professional, helpful, and always willing to work harder to come up with software issue fixes. 
+      Aside from his professionalism and great work ethic, Bill is one of the most friendly and amicable guys I know. 
+      A pleasure to work with and a great asset to any program."
+    
