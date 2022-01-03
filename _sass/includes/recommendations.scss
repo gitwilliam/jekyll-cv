@@ -2,6 +2,9 @@
     .title {
         @include header;
     }
+    .recommendation-additional {
+        @include body-text; 
+    }
     .recommendation-items {
         .recommendation-item {
             margin-bottom: 20px;
