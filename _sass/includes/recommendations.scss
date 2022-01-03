@@ -5,21 +5,14 @@
     .recommendation-items {
         .recommendation-item {
             margin-bottom: 20px;
-            .recommendation-text{
-                a {
-                    text-decoration: none;
-                    @include body-text; 
-                }
+            .recommendation-text {
+                text-decoration: none;
+                @include body-text; 
             }
             .authors {
-                @include body-text;
                 font-style: italic;
                 font-weight: bold;
-            }
-            .conference {
-                @include body-text; 
-                color: var(--fg-color-title-sm);
-                font-weight: 100;
+                @include body-text;
             }
         }
     }
