@@ -63,6 +63,18 @@ experience:
 #      A Sample Recommendation
 
 recommendations:
+  - authors: Alex Ortiz-Rosado
+    text: |
+      "I worked with Bill at Breeze, where he served as a Senior Software Engineer and I was the Director of Engineering. 
+      Bill was a fantastic team member, a strong technical lead, and an overall great person to work alongside. 
+      While at Breeze, he took on large, complex projects and was always successful at seeing them through. 
+
+      One of the more complex projects involved rewriting the core query engine powering our platform API. 
+      He spent lots of time tracing queries, digging into performance metrics, and ultimately, 
+      figuring out and rewriting the code that was causing slow response times from the API. 
+
+      It was an honor and a joy working with Bill and I would highly recommend him for any Senior Engineering roles!"
+      
   - authors: Nicole Lee
     text: |
       "Not only is Bill an intelligent software engineer, he is an excellent teammate. 
