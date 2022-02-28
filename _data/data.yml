@@ -95,4 +95,24 @@ recommendations:
       Bill was knowledgeable, professional, helpful, and always willing to work harder to come up with software issue fixes. 
       Aside from his professionalism and great work ethic, Bill is one of the most friendly and amicable guys I know. 
       A pleasure to work with and a great asset to any program."
+      
+projects:
+  - title: Secure Multi-Party Computation - Line Intersection
+    link: http://toadredcarp.github.io/secure-multiparty-line-segment-intersection
+    details: |
+      A secure multiparty application for two parties to determine whether they have intersecting line 
+      segments without revealing any information about their line segments to the other party.  Implemented using Java.
+      
+  - title: KoolKash - Digital Cash Protocol
+    link: http://toadredcarp.github.io/koolkash-digital-cash-protocol
+    details: |
+      An implementation of the fourth digital cash protocol in Bruce Schneier’s Applied Cryptography. 
+      Implemented in C++, using gcc, SCONS and the BOOST unit test framework for unit testing the cryptographic algorithms.  
+      It is all containerized using Docker.
+      
+  - title: Adaptive Critic Designs using Artificial Neural Networks
+    link: http://toadredcarp.github.io/adaptive-critic-designs
+    details: |
+      Application of Adaptive Critic Designs (Adaptive Dynamic Programming) to the Cart-Pole problem using Neural Networks. 
+      Developed in MATLAB 2012a.
     
