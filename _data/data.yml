@@ -97,6 +97,11 @@ recommendations:
       A pleasure to work with and a great asset to any program."
       
 projects:
+  - title: HuddleSync
+    link: https://huddlesync.com
+    details: |
+      A Group Meeting Time Coordination App. Developed in Ruby on Rails.
+      
   - title: Secure Multi-Party Computation - Line Intersection
     link: http://toadredcarp.github.io/secure-multiparty-line-segment-intersection
     details: |
