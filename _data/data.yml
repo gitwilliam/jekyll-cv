@@ -33,7 +33,7 @@ profile: |
 
 # Experience
 experience:
-- role: Senior Software Engineer
+  - role: Senior Software Engineer
     time: 2022-Present
     company: Dialexa
     technologies:
