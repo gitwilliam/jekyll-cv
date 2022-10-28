@@ -34,7 +34,11 @@ profile: |
 # Experience
 experience:
   - role: Senior Software Engineer
-    time: 2022-Present
+    time: Oct 2022-Present
+    company: Calendly
+    
+  - role: Senior Software Engineer
+    time: May 2022-Oct 2022
     company: Dialexa
     
   - role: Senior Full Stack Software Engineer
