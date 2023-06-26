@@ -34,7 +34,11 @@ profile: |
 # Experience
 experience:
   - role: Senior Software Engineer
-    time: Oct 2022-Present
+    time: May 2023-Present
+    company: TeamGantt
+    
+  - role: Senior Software Engineer
+    time: Oct 2022-May 2023
     company: Calendly
     
   - role: Senior Software Engineer
